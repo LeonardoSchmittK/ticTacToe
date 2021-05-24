@@ -2,6 +2,8 @@
 
 -  An app to play Tic-Tac-Toe around with another person.
 
+![screenshot](./public/resources/screenshot.png)
+
 # Background
 
 I've been struggling over the months to find out a way to accomplish this app. I do my upmost to think without tutorials fill my mind of a someone's code. In fact, I try to get there by myself. I've realized with this app that I can build awesome stuff, even using vanilla js.
